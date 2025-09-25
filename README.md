@@ -10,7 +10,7 @@ This project implements a mental health text classification system using the RoB
 
 Created by [@ihebzr](https://github.com/ihebzr) - feel free to contact me!
 
-Project Link: [https://github.com/ihebzr/mental-health-classification](https://github.com/ihebzr/mental-health-classification)
+Project Link: [https://github.com/ihebzr/mental-health-classification](https://github.com/ihebzr/mental-health-textclassification)
 
 ---
 Last Updated: 2025-02-16
